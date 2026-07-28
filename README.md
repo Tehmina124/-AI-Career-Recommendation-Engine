@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./career-banner.png" width="100%" alt="AI Career Recommendation Engine Banner">
+  <img src="./career-banner.PNG" alt="AI Career Recommendation Engine Banner" width="100%">
 </p>
 
 <h1 align="center">🤖 AI Career Recommendation Engine</h1>
