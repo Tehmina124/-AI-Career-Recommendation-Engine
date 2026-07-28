@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="career-banner.png" width="100%" alt="AI Career Recommendation Engine Banner">
+  <img src="./career-banner.png" width="100%" alt="AI Career Recommendation Engine Banner">
 </p>
 
 <h1 align="center">🤖 AI Career Recommendation Engine</h1>
@@ -38,28 +38,28 @@ The application is built with **Gradio**, providing a simple and interactive use
 
 # ✨ Features
 
-- 🤖 AI-based Career Recommendation
-- 🎯 Personalized Career Prediction
-- 🧠 NLP Text Processing
-- 🔤 TF-IDF Text Vectorization
-- 📊 Confidence Score Prediction
-- ⚡ Fast Machine Learning Predictions
-- 🌐 Interactive Gradio Interface
-- 🚀 Hugging Face Deployment
+* 🤖 AI-based Career Recommendation
+* 🎯 Personalized Career Prediction
+* 🧠 NLP Text Processing
+* 🔤 TF-IDF Text Vectorization
+* 📊 Confidence Score Prediction
+* ⚡ Fast Machine Learning Predictions
+* 🌐 Interactive Gradio Interface
+* 🚀 Hugging Face Deployment
 
 ---
 
 # 🛠️ Technologies Used
 
-- Python
-- Scikit-learn
-- Pandas
-- NumPy
-- Joblib
-- Gradio
-- Natural Language Processing (NLP)
-- TF-IDF Vectorizer
-- Logistic Regression
+* Python
+* Scikit-learn
+* Pandas
+* NumPy
+* Joblib
+* Gradio
+* Natural Language Processing (NLP)
+* TF-IDF Vectorizer
+* Logistic Regression
 
 ---
 
@@ -160,28 +160,23 @@ Confidence Score
 
 ### Input
 
-Skills
+**Skills**
 
-```
+```text
 Python, Machine Learning, Data Analysis
 ```
 
-Interest
+**Interest**
 
-```
+```text
 Artificial Intelligence, Data Science
 ```
 
 ### Output
 
-```
-Recommended Career
-
-AI Engineer
-
-Confidence Score
-
-85%
+```text
+🎯 Recommended Career: AI Engineer
+📊 Confidence Score: 85%
 ```
 
 ---
@@ -190,26 +185,26 @@ Confidence Score
 
 This project helped me improve my understanding of:
 
-- Python Programming
-- Machine Learning
-- Natural Language Processing (NLP)
-- Text Classification
-- Feature Engineering
-- Model Training
-- Model Deployment
-- Gradio Applications
+* Python Programming
+* Machine Learning
+* Natural Language Processing (NLP)
+* Text Classification
+* Feature Engineering
+* Model Training
+* Model Deployment
+* Gradio Applications
 
 ---
 
 # 🔮 Future Improvements
 
-- 🤖 AI Career Chatbot
-- 📚 Personalized Learning Roadmap
-- 🎓 Course Recommendations
-- 📄 Resume Analysis
-- 📈 Improve Model Accuracy
-- 🌍 Multi-language Support
-- 📱 Mobile Application
+* 🤖 AI Career Chatbot
+* 📚 Personalized Learning Roadmap
+* 🎓 Course Recommendations
+* 📄 Resume Analysis
+* 📈 Improve Model Accuracy
+* 🌍 Multi-language Support
+* 📱 Mobile Application
 
 ---
 
@@ -227,17 +222,17 @@ If you like this project, don't forget to ⭐ the repository.
 
 **AI/ML Engineer | Python Developer**
 
-🌐 **Portfolio**  
-https://tehmina-portfolio.vercel.app/
+🌐 **Portfolio**
+🔗 https://tehmina-portfolio.vercel.app/
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/tehmina-anwar-77b8a8414/
+💼 **LinkedIn**
+🔗 https://www.linkedin.com/in/tehmina-anwar-77b8a8414/
 
-💻 **GitHub**  
-https://github.com/Tehminaanwar543
+💻 **GitHub**
+🔗 https://github.com/Tehminaanwar543
 
-📧 **Email**  
-Tehminaanwar713@gmail.com
+📧 **Email**
+✉️ [Tehminaanwar713@gmail.com](mailto:Tehminaanwar713@gmail.com)
 
 ---
 
