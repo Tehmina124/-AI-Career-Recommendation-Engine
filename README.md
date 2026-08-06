@@ -229,7 +229,7 @@ If you like this project, don't forget to ⭐ the repository.
 🔗 https://www.linkedin.com/in/tehmina-anwar-77b8a8414/
 
 💻 **GitHub**
-🔗 https://github.com/Tehminaanwar543
+🔗 https://github.com/Tehmina124
 
 📧 **Email**
 ✉️ [Tehminaanwar713@gmail.com](mailto:Tehminaanwar713@gmail.com)
